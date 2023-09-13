@@ -1,4 +1,4 @@
 # Demo-Project
 this is my first git repository
 <br>
-Author - "Varun Dhiman"
+Author - "Varun Dhiman" ("coding")
